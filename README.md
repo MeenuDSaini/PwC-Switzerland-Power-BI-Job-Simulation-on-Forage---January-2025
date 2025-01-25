@@ -1,4 +1,4 @@
-# PwC-Switzerland-Power-BI-Job-Simulation-on-Forage---January-2025
+# PwC-Switzerland-Power BI Job-Simulation on Forage---January-2025
 Welcome to the PwC-Switzerland-Power-BI-Job-Simulation-on-Forage repository! This repository contains the Power BI dashboards and analytical work related to various tasks from a PwC telecom client simulation, focused on data visualisation and insights for customer retention, telecom performance, and diversity and inclusion initiatives.
 
 ## Table of Contents
